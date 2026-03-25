@@ -1,0 +1,44 @@
+body, ul, h1, h2, h3 {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    background-color: rgb(119, 83, 154);
+    border: auto;
+
+}
+
+.wrapper {
+    margin: auto;
+    padding: 100px;
+    max-width: 600;
+}
+
+.site-header {
+    background-color: rgb(34, 167, 184);
+    padding: 15;
+}
+
+.main {
+    background-color: rgb(183, 195, 52);
+    padding: 15;
+    margin-top: 10;
+    margin-bottom: 10;
+}
+.section {
+    background-color: rgba(182, 152, 76, 0.764);
+    padding: 15;
+    margin: 10;
+}
+
+.aside {
+    background-color: aqua;
+    padding: 15;
+    color: chocolate;
+}
+
+.footer {
+    background-color: brown;
+    padding: 20px 0;
+}
